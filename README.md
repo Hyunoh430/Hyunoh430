@@ -25,4 +25,21 @@
     <div align= "center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hyunoh430" alt="GitHub Streak" /></a>
     </div>
+
+<div align="center">
+
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunoh430&layout=compact&theme=default" />
+
+</div>
+
+<div align="center">
+  <br/>
+  <a href="https://solved.ac/hyunoh430">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=harrymickey" alt="Solved.ac Profile Badge">
+  </a>  
+</div>
+
+
+
     
